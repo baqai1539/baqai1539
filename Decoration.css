@@ -1,0 +1,38 @@
+body
+{
+    background-color: lightpink ;
+    color: black;
+}
+
+#textExamples
+{
+    background-color: darkolivegreen ;
+    color: white;
+}
+#lists
+{
+    background-color:lightpink;
+}
+
+
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ffffff;
+    color: #020202;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #9f9795;
+    color: #040106;
+}
